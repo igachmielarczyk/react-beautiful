@@ -9,7 +9,7 @@ const DraggableBlockList = ({
   heroes,
 }) => {
   return (
-    <Card className="app-card m-3 p-2 d-flex flex-row justify-content-center align-items-center ">
+    <Card className="app-card  m-2 m-sm-3 p-1 p-sm-2 d-flex flex-row justify-content-center align-items-center ">
       <Card.Title className="mb-0 d-flex flex-row justify-content-center align-items-center">
         {name}
       </Card.Title>
